@@ -1,2 +1,2 @@
 # Learning-Project
-A Flutter Project
+A Flutter Project with firebase as backend
